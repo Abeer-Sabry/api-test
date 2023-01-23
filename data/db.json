@@ -278,7 +278,7 @@
     },
     {
       "id": 7,
-      "img": "https://api.yeshtery.com/v1/yeshtery/files/31/a172f-2-a07b71dd38d542e9ab55e8effbeb5f79.jpg?height=552",
+      "img": "https://api.yeshtery.com/v1/yeshtery/files/31/a2m7g-2-166e1bdd2f4d49bfb3056c804ec07849.jpg?height=552",
       "title": "6 IN PREMIUM WP BOOT FOR JUNIOR",
       "rating": 3.5,
       "price": 5000,
@@ -286,16 +286,16 @@
       "brand": "Timberland",
       "images": [
         {
-          "original": "https://api.yeshtery.com/v1/yeshtery/files/31/a172f-1-3b8ca919dac14564b843ef9c65682650.jpg?height=552",
-          "thumbnail": "https://api.yeshtery.com/v1/yeshtery/files/31/a172f-1-3b8ca919dac14564b843ef9c65682650.jpg?height=552"
+          "original": "https://api.yeshtery.com/v1/yeshtery/files/31/a2m7g-2-166e1bdd2f4d49bfb3056c804ec07849.jpg?height=552",
+          "thumbnail": "https://api.yeshtery.com/v1/yeshtery/files/31/a2m7g-2-166e1bdd2f4d49bfb3056c804ec07849.jpg?height=552"
         },
         {
-          "original": "https://api.yeshtery.com/v1/yeshtery/files/31/a172f-2-a07b71dd38d542e9ab55e8effbeb5f79.jpg?height=552",
-          "thumbnail": "https://api.yeshtery.com/v1/yeshtery/files/31/a172f-2-a07b71dd38d542e9ab55e8effbeb5f79.jpg?height=552"
+          "original": "https://api.yeshtery.com/v1/yeshtery/files/31/a2m7g-2-166e1bdd2f4d49bfb3056c804ec07849.jpg?height=552",
+          "thumbnail": "https://api.yeshtery.com/v1/yeshtery/files/31/a2m7g-2-166e1bdd2f4d49bfb3056c804ec07849.jpg?height=552"
         },
         {
-          "original": "https://api.yeshtery.com/v1/yeshtery/files/31/a172f-3-8c62d74226cb4a2c945d742da25de6f8.jpg?height=552",
-          "thumbnail": "https://api.yeshtery.com/v1/yeshtery/files/31/a172f-3-8c62d74226cb4a2c945d742da25de6f8.jpg?height=552"
+          "original": "https://api.yeshtery.com/v1/yeshtery/files/31/a2m7g-2-166e1bdd2f4d49bfb3056c804ec07849.jpg?height=552",
+          "thumbnail": "https://api.yeshtery.com/v1/yeshtery/files/31/a2m7g-2-166e1bdd2f4d49bfb3056c804ec07849.jpg?height=552"
         }
       ],
       "colors": [
@@ -405,51 +405,6 @@
         "40"
       ],
       "discount": 30,
-      "qty": 0
-    },
-    {
-      "id": 10,
-      "img": "https://api.yeshtery.com/v1/yeshtery/files/31/screenshot-2022-10-17-at-7.43.40-pm-removebg-preview.png?height=552",
-      "title": "FIELD TREKKER LOW SADDLE",
-      "rating": 3.5,
-      "price": 3.499,
-      "brandLogo": "https://api.yeshtery.com/v1/yeshtery/files/31/timberland-logo-history-removebg-preview-7e3b4761d8294c46a5715d04a90e9887.png?height=150",
-      "brand": "Timberland",
-      "images": [
-        {
-          "original": "https://api.yeshtery.com/v1/yeshtery/files/31/screenshot-2022-10-17-at-7.43.40-pm-removebg-preview.png?height=552",
-          "thumbnail": "https://api.yeshtery.com/v1/yeshtery/files/31/screenshot-2022-10-17-at-7.43.40-pm-removebg-preview.png?height=552"
-        },
-        {
-          "original": "https://api.yeshtery.com/v1/yeshtery/files/31/a2dg2-2-1428162d5e3047d8a35bbb5c094f4270.jpg?height=552",
-          "thumbnail": "https://api.yeshtery.com/v1/yeshtery/files/31/a2dg2-2-1428162d5e3047d8a35bbb5c094f4270.jpg?height=552"
-        },
-        {
-          "original": "https://api.yeshtery.com/v1/yeshtery/files/31/a2dg2-3-236895bdb0aa4899b062f1ed9800e6a6.jpg?height=552",
-          "thumbnail": "https://api.yeshtery.com/v1/yeshtery/files/31/a2dg2-3-236895bdb0aa4899b062f1ed9800e6a6.jpg?height=552"
-        },
-        {
-          "original": "https://api.yeshtery.com/v1/yeshtery/files/31/a2dg2-1-fd1f80b4a7d94e25956635903cc5d084.jpg?height=552",
-          "thumbnail": "https://api.yeshtery.com/v1/yeshtery/files/31/a2dg2-1-fd1f80b4a7d94e25956635903cc5d084.jpg?height=552"
-        }
-      ],
-      "colors": [
-        {
-          "img1": "https://api.yeshtery.com/v1/yeshtery/files/31/a2dg2-1-fd1f80b4a7d94e25956635903cc5d084.jpg?height=552"
-        },
-        {
-          "img2": "https://api.yeshtery.com/v1/yeshtery/files/31/a172f-1-3b8ca919dac14564b843ef9c65682650.jpg?height=552"
-        }
-      ],
-      "category": "men",
-      "discount": 30,
-      "rates": 22,
-      "sizes": [
-        "37",
-        "38",
-        "39",
-        "40"
-      ],
       "qty": 0
     }
   ]
